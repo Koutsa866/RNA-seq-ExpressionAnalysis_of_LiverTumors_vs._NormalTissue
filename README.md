@@ -1,5 +1,3 @@
-# Bioinformatics-Projects_2025
-
 # 🧬 RNA-seq Expression Analysis of Liver Tumors vs. Normal Tissue
 
 ## 📄 License
@@ -30,11 +28,21 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## ✅ Example Use Case
+## ✅ Data sets utilized
 
 **What genes are differentially expressed between hepatocellular carcinoma (HCC) and normal liver tissue?**
+Using RNA-seq data from the following datasets, this project aims to  identify differentially expressed genes between tumor and non-tumor samples, and visualizes key patterns in expression.
 
-Using RNA-seq data from [GSE14520](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE14520), this project aims to  identify differentially expressed genes between tumor and non-tumor samples, and visualizes key patterns in expression.
+1. https://www.ncbi.nlm.nih.gov/gds/ 
+
+2. https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE14520
+
+3. https://www.ncbi.nlm.nih.gov/geo/query`/acc.cgi?acc=GSE136103
+
+4. https://trace.ncbi.nlm.nih.gov/Traces/study/?acc=SRP174003&o=acc_s%3Aa
+
+5. https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE14520
+
 
 ---
 
